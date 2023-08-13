@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @RodrigoZandeOliveira,
-- Professional product designer with over 7 years of experience working with hardware development and currently learning to develop digital products!
+👋 Hi, I’m @RodrigoZandeOliveira,
+Professional product designer with over 7 years of experience working with hardware development and currently learning to develop digital products!
 
 Learning about:
 - UX Design / Strategic Design
