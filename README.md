@@ -4,9 +4,6 @@ Professional product designer with over 7 years of experience working with hardw
 Learning about:
 - UX Design / Strategic Design
 - UI Design
-
-Tools:
-- Figma
 - HTML
 - CSS
 - JavaScript
