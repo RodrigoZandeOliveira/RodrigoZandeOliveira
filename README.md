@@ -4,9 +4,7 @@ Professional product designer with over 7 years of experience working with hardw
 Learning about:
 - UX Design / Strategic Design
 - UI Design
-- HTML
-- CSS
-- JavaScript
+- Front-end (HTML, CSS, JavaScript)
 
 <!---
 RodrigoZandeOliveira/RodrigoZandeOliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
