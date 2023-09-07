@@ -4,7 +4,7 @@ Hi, I’m @RodrigoZandeOliveira, professional product designer with over 7 years
 ##
 ### Currently learning about
 
-1. FRONT-END:
+**1. FRONT-END**
 
 <div> 
   <p>💻 I'm still at the early stages of front-end development! I'm doing simple projects or components to explore and practice HTML, CSS & JavaScript.</p>
@@ -17,7 +17,7 @@ Hi, I’m @RodrigoZandeOliveira, professional product designer with over 7 years
 
 <div>&nbsp</div>
 
-2. DESIGN
+**2. DESIGN**
 <div>
   <p>🖍 Learning Figma as a tool to prototype and visualize my projects with more fidelity.</p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" targt="_blank" />
