@@ -19,7 +19,7 @@ Hi, I’m @RodrigoZandeOliveira, professional product designer with over 7 years
 
 2. DESIGN
 <div>
-  <p>🖍 Learning Figma to help prototype and visualize my projects with more fidelity.</p>
+  <p>🖍 Learning Figma as a tool to prototype and visualize my projects with more fidelity.</p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" targt="_blank" />
 
 <div>&nbsp</div>
