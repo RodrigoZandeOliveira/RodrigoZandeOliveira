@@ -7,7 +7,7 @@ Hi, I’m @RodrigoZandeOliveira, professional product designer with over 7 years
 **1. FRONT-END**
 
 <div> 
-  <p>💻 I'm still at the early stages of front-end development! I'm doing simple projects or components to explore and practice HTML, CSS & JavaScript.</p>
+  <p>💻 I'm still at the early stages of front-end development! I'm doing simple projects or components to explore and practice HTML, CSS & JavaScript and studying at Alura.</p>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank" />
